@@ -14,7 +14,8 @@ At the same time, no information related to the author can be disclosed, and thi
 
 ![image](https://github.com/ACMMM-Submission-1018/MM-Point/assets/133339736/200a9a64-168a-4d1a-bcd7-a0ceb6f6be7a)
 
-## Unique project code address on GitHub (currently only used for supporting material in paper review): https://github.com/ACMMM-Submission-1018/MM-Point/
+## Unique project code address on GitHub 
+- currently only used for supporting material in paper review: https://github.com/ACMMM-Submission-1018/MM-Point/
 
 ---
 ---
