@@ -31,9 +31,17 @@ Please place the data set file in the 'data' directory of the project system and
 **But the Baidu web disk account is a virtual user name, and the author's information has no connection, meet the principle of double blind review.**
 
 ### 3D Object Classification——modelNet40
-
+link：https://pan.baidu.com/s/1jEx0KxMggOwktNpHkOWJjA   (code：1018) 
 
 ### 3D Object Classification——ScanObjectNN
 
+
+---
+
+## Downstream Tasks_ 3D Object Classification
+Run 'val-modelnet40.ipynb' notebook to perform linear SVM 3D object classification in both ModelNet40 datasets.
+
+
+Run 'val-scanObjectnn.ipynb' notebook to perform linear SVM 3D object classification in ScanObjectNN datasets.
 
 
