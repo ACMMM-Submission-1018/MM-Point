@@ -27,4 +27,7 @@ Please place the data set file in the 'data' directory of the project system and
 ---
 
 ## Download the pre-trained model weights
-> Please note that we upload through Baidu web disk, because the model weight file size is too large. But the Baidu web disk account is a virtual user name, and the author's information has no connection, meet the principle of double blind review.
+> Please note that we upload through Baidu web disk, because the model weight file size is too large. 
+**But the Baidu web disk account is a virtual user name, and the author's information has no connection, meet the principle of double blind review.**
+
+
