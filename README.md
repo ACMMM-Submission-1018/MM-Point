@@ -22,7 +22,7 @@ This is only used to submit code resources related to ACMMM2023 conference paper
 - ShapeNetPart
 - S3DIS dataset
 
-Please place the data set file in the Data directory of the project system and extract it
+Please place the data set file in the 'data' directory of the project system and extract it
 
 ---
 
