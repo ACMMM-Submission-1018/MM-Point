@@ -14,6 +14,8 @@ At the same time, no information related to the author can be disclosed, and thi
 
 ![image](https://github.com/ACMMM-Submission-1018/MM-Point/assets/133339736/200a9a64-168a-4d1a-bcd7-a0ceb6f6be7a)
 
+---
+---
 
 ## The setting of the code runtime environment
 - pytorch> 1.9.0
@@ -26,6 +28,7 @@ At the same time, no information related to the author can be disclosed, and thi
 - h5py
 
 ---
+---
 
 ## Dataset preparation
 
@@ -36,6 +39,7 @@ At the same time, no information related to the author can be disclosed, and thi
 
 Please place the data set file in the 'data' directory of the project system and extract it
 
+---
 ---
 
 ## Download the pre-trained model weights
@@ -54,22 +58,29 @@ link：https://pan.baidu.com/s/1l3I4vaY-LSADIwszxAHTCw  (code：1018)
 Place the downloaded pre-training model file into the "Model" directory of your project system
 
 ---
+---
 
 ## Downstream Tasks_ 3D Object Classification
-Run 'val-modelnet40.ipynb' notebook to perform linear SVM 3D object classification in both **ModelNet40** datasets.
+1. Run 'val-modelnet40.ipynb' notebook to perform linear SVM 3D object classification in both **ModelNet40** datasets.
 
 - The classification accuracy of **92.5%** is achieved in the code, **which is higher than reported in the paper**
 - as shown in the figure below:
 ![image](https://github.com/ACMMM-Submission-1018/MM-Point/assets/133339736/552e553c-8c2b-4e7c-a1da-f83e3a4577ed)
 
+---
 
-Run 'val-scanObjectnn.ipynb' notebook to perform linear SVM 3D object classification in **ScanObjectNN** datasets.
+2. Run 'val-scanObjectnn.ipynb' notebook to perform linear SVM 3D object classification in **ScanObjectNN** datasets.
 - The classification accuracy of **88.0%** is achieved in the code, **which is higher than reported in the paper**
 - as shown in the figure below:
 ![image](https://github.com/ACMMM-Submission-1018/MM-Point/assets/133339736/f8c82945-73d0-4490-893f-1ab3865cba25)
 
+---
 
-Run 'val-modelnet10.ipynb' notebook to perform linear SVM 3D object classification in **ModelNet10** datasets.
+3. Run 'val-modelnet10.ipynb' notebook to perform linear SVM 3D object classification in **ModelNet10** datasets.
 - The classification accuracy of **95.4%** is achieved in the code. This is the same as reported in the paper.
 - as shown in the figure below:
 ![image](https://github.com/ACMMM-Submission-1018/MM-Point/assets/133339736/19773ea2-81ac-4f3b-b048-f856cb6370df)
+
+### Please note 
+- We are using **two 3090GPUs of 24G size in our experiment**. 
+- Please modify the batch-size, num-workers, and other parameters according to your actual hardware environment
