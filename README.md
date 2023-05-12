@@ -1,5 +1,8 @@
 # MM-Point
-This is only used to submit code resources related to ACMMM2023 conference papers, to ensure that the double-blind requirements are met
+This is only used to submit code resources related to the ACMMM2023 conference papers. Currently, the submitted project code resources contain the verification part of the experimental results for the supplementary material part of the paper submission. 
+
+At the same time, no information related to the author can be disclosed, and this GitHub account is a new account created temporarily for the purpose of this submission, to ensure that the double-blind requirements are met.
+
 - Anonymous Author(s)
 - Submission Id: 1018
 
