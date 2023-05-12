@@ -30,4 +30,10 @@ Please place the data set file in the 'data' directory of the project system and
 > Please note that we upload through Baidu web disk, because the model weight file size is too large. 
 **But the Baidu web disk account is a virtual user name, and the author's information has no connection, meet the principle of double blind review.**
 
+### 3D Object Classification——modelNet40
+
+
+### 3D Object Classification——ScanObjectNN
+
+
 
